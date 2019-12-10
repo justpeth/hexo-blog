@@ -8,12 +8,12 @@ subtitle: '人生每一天有许多事物都在改变，而难能可贵的是，
 description: ''
 keywords:
 author: Justpeth
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.justpeth.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

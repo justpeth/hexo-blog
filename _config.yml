@@ -104,3 +104,10 @@ deploy:
   type: git
   repo: https://github.com/justpeth/blog.git
   branch: master
+
+leancloud_counter_security:
+  enable_sync: true
+  app_id: ixITzfTEzfipku8SVcuCsboV-gzGzoHsz
+  app_key: FARiDqhhDnhVaOJjEICcjvpf
+  username: justpeth@163.com # Will be asked while deploying if is left blank
+  password: Wskihkhgm2 # Recommmended to be left blank. Will be asked while deploying if is left blank

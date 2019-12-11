@@ -4,8 +4,11 @@ tags:
   - 菜鸡互啄
 ---
 
+来来回回试过好几种方式来构建自己的博客了，断断续续的使用react写了spa博客、用apollo-server + mongodb写了后台接口，之后又用next + ts重构博客中，然后顺手又试验了下hexo，果然还是使用hexo + githubPages的方式开发个人博客最简单。
+
+<!-- more -->
+
 ### 关于hexo
-Hexo就是我们的个人博客网站的框架。
 
 安装
 ```bash

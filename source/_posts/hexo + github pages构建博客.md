@@ -1,5 +1,7 @@
 ---
 title: hexo + github pages构建博客
+tags:
+  - 菜鸡互啄
 ---
 
 ### 关于hexo

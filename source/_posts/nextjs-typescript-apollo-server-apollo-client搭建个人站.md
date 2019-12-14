@@ -56,6 +56,21 @@ yarn init
 
 安装nextjs相关依赖
 
+```bash
+yarn next react react-dom
+```
+
+将下面脚本添加到package.json中：
+
+```json
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
+```
 
 ....未完待续
 
